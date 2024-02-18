@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Inria Sans;
+     overflow-x: hidden;
 }
 
 /* 06020e71 */
